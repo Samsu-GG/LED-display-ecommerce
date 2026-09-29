@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "product_name": "EA500C6 Rental LED Display",
+    "picture": "/static/images/img1.jpg",
+    "summary": "High-definition indoor display for stages, shops and meeting rooms.",
+    "description": "P2.5 Indoor Full Color LED Display. Replace this text with the full description: pixel pitch, cabinet size, brightness, refresh rate, ingress protection, warranty and typical applications.",
+    "price": 450.0,
+    "rating": 4.8,
+    "use_as_feature": true
+  },
+  {
+    "id": 2,
+    "product_name": "EA500H9",
+    "picture": "/static/images/img2.jpg",
+    "summary": "Weatherproof high-brightness billboard for outdoor advertising.",
+    "description": "P10 Outdoor LED Billboard. Replace this text with the full description: pixel pitch, cabinet size, brightness, refresh rate, ingress protection, warranty and typical applications.",
+    "price": 380.0,
+    "rating": 4.6,
+    "use_as_feature": true
+  },
+  {
+    "id": 3,
+    "product_name": "EA500H9",
+    "picture": "/static/images/img3.jpg",
+    "summary": "Lightweight quick-lock cabinets for concerts and events.",
+    "description": "Rental LED Screen 500x500. Replace this text with the full description: pixel pitch, cabinet size, brightness, refresh rate, ingress protection, warranty and typical applications.",
+    "price": 520.0,
+    "rating": 4.9,
+    "use_as_feature": true
+  },
+  {
+    "id": 4,
+    "product_name": "Transparent LED Screen",
+    "picture": "/static/images/transparent.svg",
+    "summary": "See-through LED glass display for storefronts and facades.",
+    "description": "Transparent LED Screen. Replace this text with the full description: pixel pitch, cabinet size, brightness, refresh rate, ingress protection, warranty and typical applications.",
+    "price": 690.0,
+    "rating": 4.5,
+    "use_as_feature": false
+  },
+  {
+    "id": 5,
+    "product_name": "Flexible LED Module",
+    "picture": "/static/images/flexible.svg",
+    "summary": "Bendable modules for curved and creative installations.",
+    "description": "Flexible LED Module. Replace this text with the full description: pixel pitch, cabinet size, brightness, refresh rate, ingress protection, warranty and typical applications.",
+    "price": 610.0,
+    "rating": 4.4,
+    "use_as_feature": true
+  },
+  {
+    "id": 6,
+    "product_name": "Fine Pitch P1.5 Display",
+    "picture": "/static/images/fine-pitch.svg",
+    "summary": "Ultra-clear display for control rooms and broadcast studios.",
+    "description": "Fine Pitch P1.5 Display. Replace this text with the full description: pixel pitch, cabinet size, brightness, refresh rate, ingress protection, warranty and typical applications.",
+    "price": 980.0,
+    "rating": 4.7,
+    "use_as_feature": false
+  }
+]
